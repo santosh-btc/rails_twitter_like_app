@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: rocky-fjord-3126-herokuapp-com
+  api_key: '158429364147429'
+  api_secret: 23eLgowBaV8o8gWo5X1lhvHoT_o
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: rocky-fjord-3126-herokuapp-com
+  api_key: '158429364147429'
+  api_secret: 23eLgowBaV8o8gWo5X1lhvHoT_o
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: rocky-fjord-3126-herokuapp-com
+  api_key: '158429364147429'
+  api_secret: 23eLgowBaV8o8gWo5X1lhvHoT_o
+  enhance_image_tag: true
+  static_image_support: false
